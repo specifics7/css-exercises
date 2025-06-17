@@ -1,0 +1,20 @@
+.odds,
+.num-three {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.num-three {
+    font-size: 24px;
+}
+
+#num-four {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
